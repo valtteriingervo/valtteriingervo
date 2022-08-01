@@ -1,1 +1,1 @@
-Information Networks student at Aalto University currently learning about Android Development and the Kotlin language.
+Software and Service Engineering student at Aalto University currently learning about Full Stack Web Development
